@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-top: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+    /* height: 98vh; */
+    /* background-size: cover; */
+    /* background-color: transparent; */
+    /* background-color: white; */
+}
+
+.logo {
+    font-size: 30px;
+    color: #ffffff;
+    margin-top: 1px;
+    background-position: none;
+    margin-left: 40px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 50px;
+    color: #ffffff;
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
